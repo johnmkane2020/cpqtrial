@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>None</fullName>
+        <default>false</default>
+        <label>None</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Newspaper</fullName>
+        <default>false</default>
+        <label>Newspaper</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Magazine</fullName>
+        <default>false</default>
+        <label>Magazine</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Web Subscription</fullName>
+        <default>false</default>
+        <label>Web Subscription</label>
+    </standardValue>
+</StandardValueSet>

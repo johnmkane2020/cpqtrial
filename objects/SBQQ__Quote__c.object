@@ -479,7 +479,7 @@
     </fieldSets>
     <fields>
         <fullName>External_ID__c</fullName>
-        <caseSensitive>true</caseSensitive>
+        <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
         <label>External ID</label>
         <length>255</length>

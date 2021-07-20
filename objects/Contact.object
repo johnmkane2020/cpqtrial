@@ -398,7 +398,7 @@ CASE( Dreamforce__c,
     </fields>
     <fields>
         <fullName>External_ID__c</fullName>
-        <caseSensitive>true</caseSensitive>
+        <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
         <label>External ID</label>
         <length>255</length>
@@ -418,6 +418,16 @@ CASE( Dreamforce__c,
     <fields>
         <fullName>HasOptedOutOfFax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Hobbies__c</fullName>
+        <externalId>false</externalId>
+        <label>Hobbies</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>HomePhone</fullName>

@@ -105,7 +105,7 @@
         <caseSensitive>true</caseSensitive>
         <externalId>true</externalId>
         <label>External ID</label>
-        <length>255</length>
+        <length>50</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
